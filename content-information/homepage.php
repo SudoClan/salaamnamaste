@@ -3,9 +3,7 @@
 <div id="content">
 <h1>Meet Modern India at Salaam Namaste</h1>
 <div style="text-align: left;">
-<a href="pdf/Christmas-NK-SN-2017.pdf" target="_blank" style="border: 1px solid black; padding: 9px; background: black; color: white; font-size: 20px; text-decoration: none; font-family: cursive;">Christmas Menu</a>
-<br /><br /><br />
-<a target="_blank" style="padding: 9px; background: #C30000; color: white; font-size: 20px; text-decoration: none; font-weight:bold;">We are OPEN on Christmas Day!</a>
+<a href="pdf/New-Year-Eve-Menu.pdf" target="_blank" style="border: 1px solid black; padding: 9px; background: black; color: white; font-size: 20px; text-decoration: none; font-family: cursive;">New Year Eve Menu</a>
 </div>
 <br />
 <p>Nestled in the heart of London's Bloomsbury only few minutes away from Russell Square tube station, Salaam Namaste is the definition of the modern Indian Restaurant. Serving the finest Indian cuisine in a sleek, contemporary setting and combining traditional favourites with the new wave of exciting flavours and innovative ideas sweeping out of the sub-continent, this is the apogee of Indian dining.
