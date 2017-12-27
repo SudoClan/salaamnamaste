@@ -1,0 +1,143 @@
+/*MEDIA QUERIES - for 980px or less */
+@media screen and (max-width: 980px) {
+
+	#pagewrap {
+		width: 100%;
+	}
+	#content {
+		width: 99.7%;
+	}
+
+	h1{width: 95%; padding-left: 10px;}
+	p{width: 95%; margin: auto;}
+}
+
+@media screen and (max-width: 750px) {
+
+
+	.logo-left{
+	border: 0px solid black;
+	width: 200px;
+	}
+
+	.logo-right1{
+	display: none;
+	}
+
+	.logo-right2{
+	display: none;
+	}
+
+	.logo-middle{
+	border: 1px solid black;
+	width: 200px;
+	}
+
+	.logo{
+
+	border: 1px solid black;
+	width: 200px;
+
+	}
+}
+
+@media screen and (max-width: 750px) {
+
+	.logo-left{
+	border: 0px solid black;
+	width: 200px;
+	position: absolute;
+	top: 60px;
+	}
+
+	.logo-right1{
+	display: none;
+	}
+
+	.logo-right2{
+	display: none;
+	}
+
+	.logo-middle{
+	border: 0px solid black;
+	width: 200px;
+	margin-right: 0px;
+	}
+
+	.logo{
+	float: left;
+	border: 0px solid black;
+	width: 200px;
+	padding-bottom: 39px;
+	}
+
+	.musical{
+	display: none;
+	}
+
+}
+
+
+/* for 700px or less */
+@media screen and (max-width: 700px) {
+
+	#content {
+		width: auto;
+		float: none;
+	}
+
+}
+
+/* for 480px or less */
+@media screen and (max-width: 480px) {
+
+	#header {
+		height: auto;
+	}
+
+
+}
+
+/* border & guideline (you can ignore these) */
+#content {
+
+}
+
+#pagewrap, #header, #content, #footer {
+	border: solid 0px #ccc;
+}
+
+/* navigation */
+/* styles for desktop */
+    .tinynav { display: none; margin: auto; width: 100%;}
+    #nav .selected a, #nav2 .selected a { color: red; }
+    /* styles for mobile */
+    @media screen and (max-width: 832px) {
+      .tinynav {display: block; padding: 4px; margin-top: 8px; margin-right: 0px;}
+      #nav, #nav2 { display: none;}
+}
+
+/****homepage 3 column****/
+@media only screen and (max-width: 780px) {
+	.col {
+		margin: 1% 0 1% 0%;
+	}
+}
+
+@media only screen and (max-width: 780px) {
+	.span_3_of_3 {
+		width: 100%;
+	}
+	.span_2_of_3 {
+		width: 100%;
+	}
+	.span_1_of_3 {
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 750px) {
+	#toptable{display: none;}
+	#reserve-now{display: block;}
+}
+/****homepage 3 column****/
