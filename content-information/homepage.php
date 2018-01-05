@@ -2,10 +2,10 @@
 <?php include 'slideshow/homepage.php'; ?>
 <div id="content">
 <h1>Meet Modern India at Salaam Namaste</h1>
-<div style="text-align: left;">
+<!--<div style="text-align: left;">
 <a href="pdf/New-Year-Eve-Menu.pdf" target="_blank" style="border: 1px solid black; padding: 9px; background: black; color: white; font-size: 20px; text-decoration: none; font-family: cursive;">New Year Eve Menu</a>
 </div>
-<br />
+<br />-->
 <p>Nestled in the heart of London's Bloomsbury only few minutes away from Russell Square tube station, Salaam Namaste is the definition of the modern Indian Restaurant. Serving the finest Indian cuisine in a sleek, contemporary setting and combining traditional favourites with the new wave of exciting flavours and innovative ideas sweeping out of the sub-continent, this is the apogee of Indian dining.
 <br /><br />
 Chef-patron Sabbir Karim, named Chef of the Year in the Asian Curry Awards 2012 & Asian & oriental Innovative Chef Of The Year 2013 held at the prestigious London Grosvenor House, finalist in the British Curry Awards 2012, and also owns critically acclaimed sister restaurant <a href="http://www.namaastekitchen.co.uk/">Namaaste Kitchen</a>, in London’s leafy Primrose Hill & Camden Town.<br />
