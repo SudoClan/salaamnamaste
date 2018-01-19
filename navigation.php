@@ -18,6 +18,7 @@
 	<li><a href="event-and-catering.php">Event &#38; Catering</a></li>
 	<li><a href="press.php">Press</a></li>
 	<li><a href="news-and-offers.php">News/Offers</a></li>
+	<li><a href="pdf/valentine-menu-2018.pdf">Valentine's Menu</a></li>
     <!--<li><a href="http://www.salaam-namaste.co.uk/pdf/NEW-YEAR-MENU-SN.pdf" target="_blank">New Year Eve Menu</a></li>-->
 	<li><a href="http://www.sabirkarim.com/sabbir-karim.php" target="_blank">Chef Sabbir</a></li>
 	<li><a href="contact.php">Contact</a></li>
