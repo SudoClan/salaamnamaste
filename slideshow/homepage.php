@@ -1,6 +1,5 @@
 <div id="banner-fade">
 	<ul class="bjqs">
-				<li><img src="slideshow/images/homepage/valentine-slideshow.jpg" /></li>
 				<li><img src="slideshow/images/homepage/1.jpg" /></li>
         <li><img src="slideshow/images/homepage/2.jpg" /></li>
         <li><img src="slideshow/images/homepage/3.jpg" /></li>
